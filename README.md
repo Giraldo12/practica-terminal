@@ -1,1 +1,1 @@
-# practica-terminal
+primeros pasos con docker
